@@ -32,7 +32,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="src/assets/images/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="src/assets/images/favicon1.png">
     <title>AdminMart admin Template - The Ultimate Multipurpose admin template</title>
     <!-- Custom CSS -->
     <link href="src/dist/css/style.min.css" rel="stylesheet">
